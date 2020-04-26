@@ -1,7 +1,6 @@
-
-<<<<<<< HEAD
-print("master")
+print("hello")
 print("dev")
+
 
 
 
