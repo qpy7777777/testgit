@@ -1,2 +1,9 @@
-print("strange")
+
+<<<<<<< HEAD
 print("master")
+print("dev")
+
+
+
+
+
