@@ -1,2 +1,1 @@
-print("hello")
-print("dev")
+print("this is my first remote programming")
