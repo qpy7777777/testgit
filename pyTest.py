@@ -1,2 +1,1 @@
-print("hello world add_edit")
-print("hello git")
+print("hello world ")
