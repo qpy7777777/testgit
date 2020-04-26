@@ -1,8 +1,2 @@
 print("hello")
 print("dev")
-
-
-
-
-
-
